@@ -140,3 +140,61 @@ body {
     font-style: italic;
     text-decoration: none;
 }
+
+.main-footer {
+    width: 950px;
+    height: auto;
+    padding: 25px;
+}
+
+.footer-box {
+    width: 237.5px;
+    height: auto;
+    float: left;
+    font-family: serif;
+}
+
+.footer-box>ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.footer-box>ul>li>a {
+    display: block;
+    font-size: small;
+    margin-bottom: 5px;
+    color: black;
+    text-decoration: none;
+}
+
+address {
+    font-size: small;
+}
+
+address h3 {
+    font-family: serif;
+    font-size: small;
+}
+
+address p {
+    font-size: smaller;
+}
+
+.footer-box>address a {
+    color: black;
+    font-size: smaller;
+    font-family: serif;
+}
+
+.copy {
+    font-family: sans-serif;
+    padding: 25px;
+    text-align: center;
+    background-color: #c5d5cb;
+    color: black;
+}
+
+.copy p {
+    margin: 0px;
+}
