@@ -198,3 +198,9 @@ address p {
 .copy p {
     margin: 0px;
 }
+
+/* about us*/
+
+.content img {
+    max-width: 100%;
+}
